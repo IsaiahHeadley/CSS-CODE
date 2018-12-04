@@ -1,0 +1,12 @@
+body{
+        margin: 0;
+}
+main{
+        width: 630px;
+        height: 630px;
+        background: #cccccc;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-content: space-between;
+        padding: 10px;
